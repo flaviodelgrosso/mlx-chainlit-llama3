@@ -1,4 +1,4 @@
-# MLX Server, Chainlit and Llama3 Chatbot in less than 2 minutes
+# MLX Server, Chainlit and Llama3.1 Chatbot in less than 2 minutes
 
 ![MLX Server Chainlit Demo](mlx-chainlit.gif)
 
