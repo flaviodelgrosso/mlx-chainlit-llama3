@@ -5,7 +5,7 @@ client = AsyncOpenAI(base_url="http://localhost:8080/v1", api_key="fake-key")
 cl.instrument_openai()
 
 settings = {
-    "model": "llama3-8b",
+    "model": "llama3.1-8b",
     "temperature": 0.7,
     "max_tokens": 500,
     "top_p": 1,
